@@ -40,15 +40,13 @@
             <h2 class="title">Summer Savings</h2>
             <p>Now is the time to beat the heat! Purchase our temperature control units at 5% off during the months of July and August. Check back soon for our winter promotions.</p>
         </div>
-    </div>
-    
-        
+    </div> 
        
        <p class="grid_16 suffix_1 clearfix">
             <asp:Image ID="Image3" runat="server" ImageUrl="~/images/meanGreens.png" CssClass="grid_2 prefix_1" />
-           Learn more about how our SGS GreenThumb Modules can help your crop yields by playing our real time growing game – 
-       <asp:HyperLink ID="HyperLink1" runat="server" Text="Mean Greens" NavigateUrl="~/MeanGreens.aspx" />
-      </p>
+            Learn more about how our SGS GreenThumb Modules can help your crop yields by playing our real time growing game – 
+            <asp:HyperLink ID="HyperLink1" runat="server" Text="Mean Greens" NavigateUrl="~/MeanGreens.aspx" />
+       </p>
     
     <div class="testimonials clearfix">
         <ul>

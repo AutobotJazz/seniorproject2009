@@ -25,6 +25,12 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DV_Enterprises.Website", "D
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{A02C2A84-53BE-4F8C-9473-84824CEE00C0}"
+	ProjectSection(SolutionItems) = preProject
+		references\CSSFriendly.dll = references\CSSFriendly.dll
+		references\StructureMap.dll = references\StructureMap.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
